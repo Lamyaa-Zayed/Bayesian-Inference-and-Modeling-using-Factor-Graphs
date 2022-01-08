@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <AST>
+
+    <Const Title = "0.5"  CanvasLeft = "579"  CanvasTop = "102" >
+    </Const> 
+
+    <Const Title = "0.01"  CanvasLeft = "669"  CanvasTop = "105" >
+    </Const> 
+
+    <Const Title = "2000"  CanvasLeft = "845"  CanvasTop = "110" >
+    </Const> 
+
+    <Const Title = "4000"  CanvasLeft = "928"  CanvasTop = "109" >
+    </Const> 
+
+    <Gaussian Title = "avarageTime"  CanvasLeft = "624"  CanvasTop = "186"  Value1 = ""  Value2 = "" >
+    </Gaussian> 
+
+    <Gamma Title = "trafficNoise"  CanvasLeft = "893"  CanvasTop = "195"  Value1 = ""  Value2 = "" >
+    </Gamma> 
+
+    <ObsGauss Title = "avaragetimeMonday"  CanvasLeft = "669"  CanvasTop = "325"  Value1 = "13" >
+    </ObsGauss> 
+
+    <ObsGauss Title = "avarageTimeTuseday"  CanvasLeft = "766"  CanvasTop = "326"  Value1 = "15" >
+    </ObsGauss> 
+
+    <ObsGauss Title = "avarageTimeWednesDay"  CanvasLeft = "876"  CanvasTop = "333"  Value1 = "17" >
+    </ObsGauss> 
+
+    <line Starting_X = "614"  Starting_Y = "142"  Ending_X = "659"  Ending_Y = "187" >
+    </line> 
+
+    <line Starting_X = "704"  Starting_Y = "145"  Ending_X = "659"  Ending_Y = "187" >
+    </line> 
+
+    <line Starting_X = "880"  Starting_Y = "150"  Ending_X = "928"  Ending_Y = "196" >
+    </line> 
+
+    <line Starting_X = "963"  Starting_Y = "149"  Ending_X = "928"  Ending_Y = "196" >
+    </line> 
+
+    <line Starting_X = "659"  Starting_Y = "226"  Ending_X = "704"  Ending_Y = "326" >
+    </line> 
+
+    <line Starting_X = "659"  Starting_Y = "226"  Ending_X = "801"  Ending_Y = "327" >
+    </line> 
+
+    <line Starting_X = "659"  Starting_Y = "226"  Ending_X = "911"  Ending_Y = "334" >
+    </line> 
+
+    <line Starting_X = "928"  Starting_Y = "235"  Ending_X = "704"  Ending_Y = "326" >
+    </line> 
+
+    <line Starting_X = "928"  Starting_Y = "235"  Ending_X = "801"  Ending_Y = "327" >
+    </line> 
+
+    <line Starting_X = "928"  Starting_Y = "235"  Ending_X = "911"  Ending_Y = "334" >
+    </line> 
+
+</AST>

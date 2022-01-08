@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <FlowChart>
+
+    <Start Statment = "Start"  Location = "85,10" >
+    </Start> 
+
+    <Assign Statment = "x = 5"  Location = "85,95" >
+    </Assign> 
+
+    <End Statment = "End"  Location = "85,180" >
+    </End> 
+
+</FlowChart>

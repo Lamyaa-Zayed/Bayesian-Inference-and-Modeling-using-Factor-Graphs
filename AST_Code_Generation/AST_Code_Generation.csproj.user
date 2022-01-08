@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\ConstantWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ConstrainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\containerView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ForWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\GammaWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\GaussianArrayWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ObservedGaussianWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\OpWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\VarWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\WhileWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ConstantWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ConstrainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\containerView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ForWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\GammaWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\GaussianArrayWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ObservedGaussianWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\OpWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\VarWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\WhileWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

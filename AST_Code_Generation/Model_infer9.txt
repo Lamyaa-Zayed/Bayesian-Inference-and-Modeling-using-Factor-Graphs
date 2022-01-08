@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <AST>
+
+    <Const Title = "0.5"  CanvasLeft = "401"  CanvasTop = "350" >
+    </Const> 
+
+    <Const Title = "0.8"  CanvasLeft = "514"  CanvasTop = "349" >
+    </Const> 
+
+    <Gamma Title = "Noise"  CanvasLeft = "463"  CanvasTop = "437"  Value1 = ""  Value2 = "" >
+    </Gamma> 
+
+    <line Starting_X = "436"  Starting_Y = "390"  Ending_X = "498"  Ending_Y = "438" >
+    </line> 
+
+    <line Starting_X = "549"  Starting_Y = "389"  Ending_X = "498"  Ending_Y = "438" >
+    </line> 
+
+</AST>

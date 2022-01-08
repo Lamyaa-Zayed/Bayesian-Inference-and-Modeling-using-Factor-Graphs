@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <AST>
+
+    <Const Title = "11"  CanvasLeft = "342"  CanvasTop = "97" >
+    </Const> 
+
+    <Const Title = "22"  CanvasLeft = "486"  CanvasTop = "102" >
+    </Const> 
+
+    <Const Title = "33"  CanvasLeft = "776"  CanvasTop = "102" >
+    </Const> 
+
+    <Const Title = "44"  CanvasLeft = "909"  CanvasTop = "103" >
+    </Const> 
+
+    <Gaussian Title = "avgtime"  CanvasLeft = "407"  CanvasTop = "196"  Value1 = ""  Value2 = "" >
+    </Gaussian> 
+
+    <Gamma Title = "traffic"  CanvasLeft = "839"  CanvasTop = "197"  Value1 = ""  Value2 = "" >
+    </Gamma> 
+
+    <ObsGauss Title = "monday"  CanvasLeft = "508"  CanvasTop = "300"  Value1 = "3" >
+    </ObsGauss> 
+
+    <ObsGauss Title = "tuseday"  CanvasLeft = "617"  CanvasTop = "298"  Value1 = "4" >
+    </ObsGauss> 
+
+    <ObsGauss Title = "wednesday"  CanvasLeft = "724"  CanvasTop = "303"  Value1 = "5" >
+    </ObsGauss> 
+
+    <line Starting_X = "377"  Starting_Y = "137"  Ending_X = "442"  Ending_Y = "197" >
+    </line> 
+
+    <line Starting_X = "521"  Starting_Y = "142"  Ending_X = "442"  Ending_Y = "197" >
+    </line> 
+
+    <line Starting_X = "811"  Starting_Y = "142"  Ending_X = "874"  Ending_Y = "198" >
+    </line> 
+
+    <line Starting_X = "944"  Starting_Y = "143"  Ending_X = "874"  Ending_Y = "198" >
+    </line> 
+
+    <line Starting_X = "442"  Starting_Y = "236"  Ending_X = "543"  Ending_Y = "301" >
+    </line> 
+
+    <line Starting_X = "442"  Starting_Y = "236"  Ending_X = "652"  Ending_Y = "299" >
+    </line> 
+
+    <line Starting_X = "442"  Starting_Y = "236"  Ending_X = "759"  Ending_Y = "304" >
+    </line> 
+
+    <line Starting_X = "874"  Starting_Y = "237"  Ending_X = "543"  Ending_Y = "301" >
+    </line> 
+
+    <line Starting_X = "874"  Starting_Y = "237"  Ending_X = "652"  Ending_Y = "299" >
+    </line> 
+
+    <line Starting_X = "874"  Starting_Y = "237"  Ending_X = "759"  Ending_Y = "304" >
+    </line> 
+
+</AST>

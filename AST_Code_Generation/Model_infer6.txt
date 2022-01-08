@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <AST>
+
+    <Array Title = "teamNames"  CanvasLeft = "621"  CanvasTop = "121"  Value1 = ""Angels", "Bruins", "Comets", "Demons", "Eagles", "Flyers" "  Value2 = "string" >
+    </Array> 
+
+    <Const Title = "13"  CanvasLeft = "322"  CanvasTop = "123" >
+    </Const> 
+
+    <Const Title = "17"  CanvasLeft = "466"  CanvasTop = "122" >
+    </Const> 
+
+    < Title = "Strengts"  CanvasLeft = "458"  CanvasTop = "267" >
+    </> 
+
+    <line Starting_X = "357"  Starting_Y = "163"  Ending_X = "493"  Ending_Y = "268" >
+    </line> 
+
+    <line Starting_X = "501"  Starting_Y = "162"  Ending_X = "493"  Ending_Y = "268" >
+    </line> 
+
+    <line Starting_X = "656"  Starting_Y = "161"  Ending_X = "493"  Ending_Y = "268" >
+    </line> 
+
+</AST>

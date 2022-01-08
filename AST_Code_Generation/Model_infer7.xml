@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <AST>
+
+    <Const Title = "0.5"  CanvasLeft = "602"  CanvasTop = "196" >
+    </Const> 
+
+    <Const Title = "0.5"  CanvasLeft = "705"  CanvasTop = "196" >
+    </Const> 
+
+    <Bernoulli Title = "c"  CanvasLeft = "601"  CanvasTop = "303" >
+    </Bernoulli> 
+
+    <Bernoulli Title = "sql"  CanvasLeft = "710"  CanvasTop = "302" >
+    </Bernoulli> 
+
+    <ObsBernoli Title = "isCorrect1"  CanvasLeft = "601"  CanvasTop = "472"  Value1 = "0.9"  Value2 = "0.2"  Value3 = "true" >
+    </ObsBernoli> 
+
+    <And Title = "hasSkills"  CanvasLeft = "804"  CanvasTop = "399" >
+    </And> 
+
+    <ObsBernoli Title = "isCorrect2"  CanvasLeft = "711"  CanvasTop = "470"  Value1 = "0.9"  Value2 = "0.2"  Value3 = "false" >
+    </ObsBernoli> 
+
+    <ObsBernoli Title = "isCorrect3"  CanvasLeft = "804"  CanvasTop = "469"  Value1 = "0.9"  Value2 = "0.2"  Value3 = "false" >
+    </ObsBernoli> 
+
+    <line Starting_X = "637"  Starting_Y = "236"  Ending_X = "636"  Ending_Y = "304" >
+    </line> 
+
+    <line Starting_X = "636"  Starting_Y = "343"  Ending_X = "636"  Ending_Y = "473" >
+    </line> 
+
+    <line Starting_X = "745"  Starting_Y = "342"  Ending_X = "746"  Ending_Y = "471" >
+    </line> 
+
+    <line Starting_X = "636"  Starting_Y = "343"  Ending_X = "839"  Ending_Y = "400" >
+    </line> 
+
+    <line Starting_X = "745"  Starting_Y = "342"  Ending_X = "839"  Ending_Y = "400" >
+    </line> 
+
+    <line Starting_X = "839"  Starting_Y = "439"  Ending_X = "839"  Ending_Y = "470" >
+    </line> 
+
+</AST>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <AST>
+
+    <Const Title = "15"  CanvasLeft = "328"  CanvasTop = "94" >
+    </Const> 
+
+    <Const Title = "0.01"  CanvasLeft = "443"  CanvasTop = "96" >
+    </Const> 
+
+    <Const Title = "200"  CanvasLeft = "692"  CanvasTop = "95" >
+    </Const> 
+
+    <Const Title = "400"  CanvasLeft = "790"  CanvasTop = "96" >
+    </Const> 
+
+    <Gaussian Title = "avarageTime"  CanvasLeft = "375"  CanvasTop = "202"  Value1 = ""  Value2 = "" >
+    </Gaussian> 
+
+    <Gamma Title = "trafficNoise"  CanvasLeft = "733"  CanvasTop = "201"  Value1 = ""  Value2 = "" >
+    </Gamma> 
+
+    <ObsGauss Title = "avarageTimeMonday"  CanvasLeft = "458"  CanvasTop = "305"  Value1 = "13" >
+    </ObsGauss> 
+
+    <ObsGauss Title = "avarageTimeTuseday"  CanvasLeft = "550"  CanvasTop = "304"  Value1 = "17" >
+    </ObsGauss> 
+
+    <ObsGauss Title = "avarageTimeWednesday"  CanvasLeft = "643"  CanvasTop = "303"  Value1 = "19" >
+    </ObsGauss> 
+
+    <line Starting_X = "363"  Starting_Y = "134"  Ending_X = "410"  Ending_Y = "203" >
+    </line> 
+
+    <line Starting_X = "478"  Starting_Y = "136"  Ending_X = "410"  Ending_Y = "203" >
+    </line> 
+
+    <line Starting_X = "727"  Starting_Y = "135"  Ending_X = "768"  Ending_Y = "202" >
+    </line> 
+
+    <line Starting_X = "825"  Starting_Y = "136"  Ending_X = "768"  Ending_Y = "202" >
+    </line> 
+
+    <line Starting_X = "410"  Starting_Y = "242"  Ending_X = "493"  Ending_Y = "306" >
+    </line> 
+
+    <line Starting_X = "410"  Starting_Y = "242"  Ending_X = "585"  Ending_Y = "305" >
+    </line> 
+
+    <line Starting_X = "410"  Starting_Y = "242"  Ending_X = "678"  Ending_Y = "304" >
+    </line> 
+
+    <line Starting_X = "768"  Starting_Y = "241"  Ending_X = "493"  Ending_Y = "306" >
+    </line> 
+
+    <line Starting_X = "768"  Starting_Y = "241"  Ending_X = "585"  Ending_Y = "305" >
+    </line> 
+
+    <line Starting_X = "768"  Starting_Y = "241"  Ending_X = "678"  Ending_Y = "304" >
+    </line> 
+
+</AST>

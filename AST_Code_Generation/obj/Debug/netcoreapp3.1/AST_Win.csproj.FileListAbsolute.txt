@@ -1,0 +1,154 @@
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.exe
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.deps.json
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.runtimeconfig.json
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.runtimeconfig.dev.json
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.pdb
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.csproj.AssemblyReference.cache
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\View\containerView.g.cs
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\AST_Win_MarkupCompile.cache
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\AST_Win_MarkupCompile.lref
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\View\containerView.baml
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.g.resources
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.AssemblyInfoInputs.cache
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.AssemblyInfo.cs
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.pdb
+C:\Users\Laptop Market\source\repos\MVVM_Example\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.genruntimeconfig.cache
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.exe
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.deps.json
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.runtimeconfig.json
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.runtimeconfig.dev.json
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.pdb
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.csproj.AssemblyReference.cache
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\View\containerView.g.cs
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\AST_Win_MarkupCompile.cache
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\AST_Win_MarkupCompile.lref
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\View\containerView.baml
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.g.resources
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.AssemblyInfoInputs.cache
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.AssemblyInfo.cs
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.dll
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.pdb
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.genruntimeconfig.cache
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\View\ConstantWindow.g.cs
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\View\ForWindow.g.cs
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\View\VarWindow.g.cs
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\View\OpWindow.g.cs
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\View\ConstantWindow.baml
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\View\ForWindow.baml
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\View\OpWindow.baml
+C:\Users\Laptop Market\source\repos\MVVM_Example - Copy\AST_Win\obj\Debug\netcoreapp3.1\View\VarWindow.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.exe
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.deps.json
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.runtimeconfig.json
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.runtimeconfig.dev.json
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.pdb
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.Extras.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.Platform.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.csproj.AssemblyReference.cache
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\View\ConstantWindow.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\View\containerView.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\View\ForWindow.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\View\OpWindow.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\View\VarWindow.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\App.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\AST_Win_MarkupCompile.cache
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\AST_Win_MarkupCompile.lref
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\View\ConstantWindow.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\View\containerView.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\View\ForWindow.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\View\OpWindow.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\View\VarWindow.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.g.resources
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.AssemblyInfoInputs.cache
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.AssemblyInfo.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.csproj.CoreCompileInputs.cache
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.csproj.CopyComplete
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.pdb
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.genruntimeconfig.cache
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\View\WhileWindow.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\project_taghreed\AST_Win\obj\Debug\netcoreapp3.1\View\WhileWindow.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.exe
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.deps.json
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.runtimeconfig.json
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.runtimeconfig.dev.json
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\bin\Debug\netcoreapp3.1\AST_Win.pdb
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.Extras.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.Platform.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.csproj.AssemblyReference.cache
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\View\ConstantWindow.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\View\containerView.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\View\ForWindow.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\View\OpWindow.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\View\VarWindow.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\View\WhileWindow.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\App.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\AST_Win_MarkupCompile.cache
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\AST_Win_MarkupCompile.lref
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\View\ConstantWindow.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\View\containerView.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\View\ForWindow.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\View\OpWindow.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\View\VarWindow.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\View\WhileWindow.baml
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.g.resources
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.AssemblyInfoInputs.cache
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.AssemblyInfo.cs
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.csproj.CoreCompileInputs.cache
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.csproj.CopyComplete
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.dll
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.pdb
+C:\ITI-AI-Intake1\Softec_Graduation_Project\AST_Win\obj\Debug\netcoreapp3.1\AST_Win.genruntimeconfig.cache
